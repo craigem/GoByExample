@@ -1,1 +1,3 @@
-This is the initial README for the GoByExample git repo.
+# Go By Example
+
+My work as I make my way through [Go By Example](https://gobyexample.com/).
