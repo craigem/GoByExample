@@ -16,6 +16,7 @@ func main() {
 
     fmt.Println("len:", len(m))
 
+    delete(m, "k2")
     fmt.Println("map:", m)
 
     _, prs := m["k2"]
